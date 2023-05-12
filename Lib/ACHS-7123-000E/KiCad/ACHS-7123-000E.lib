@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ACHS-7123-000E
+#/1728061/182282/2.50/8/3/Integrated Circuit
+DEF ACHS-7123-000E IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "ACHS-7123-000E" 1150 200 50 H V L CNN
+F2 "SOIC127P606X204-8N" 1150 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/85fe2f5daf3917ca61a2261dca329268.pdf" 1150 0 50 H I L CNN
+F4 "Board Mount Current Sensors Hall Effect IC LF 30A 66 mV/A" 1150 -100 50 H I L CNN "Description"
+F5 "2.035" 1150 -200 50 H I L CNN "Height"
+F6 "630-ACHS-7123-000E" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ACHS-7123-000E?qs=w%2Fv1CP2dgqqiNyZEYkpD6A%3D%3D" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Avago Technologies" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "ACHS-7123-000E" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X IP+_1 1 0 0 200 R 50 50 0 0 P
+X IP+_2 2 0 -100 200 R 50 50 0 0 P
+X IP-_1 3 0 -200 200 R 50 50 0 0 P
+X IP-_2 4 0 -300 200 R 50 50 0 0 P
+X VDD 8 1300 0 200 L 50 50 0 0 P
+X VOUT 7 1300 -100 200 L 50 50 0 0 P
+X FILTER 6 1300 -200 200 L 50 50 0 0 P
+X GND 5 1300 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

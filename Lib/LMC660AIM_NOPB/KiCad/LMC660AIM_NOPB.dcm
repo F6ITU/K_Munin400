@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMC660AIM_NOPB
+D Quad 15.5V, 1.4MHz, improved offset, CMOS operational amplifier
+K
+F http://www.ti.com/lit/ds/symlink/lmc660.pdf
+$ENDCMP
+#
+#End Doc Library

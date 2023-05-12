@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MRF300BN
+D RF MOSFET Transistors RF Power LDMOS Transistor, 300 W CW over 1.8-250 MHz, 50 V
+K
+F http://www.nxp.com/docs/en/data-sheet/MRF300AN.pdf
+$ENDCMP
+#
+#End Doc Library

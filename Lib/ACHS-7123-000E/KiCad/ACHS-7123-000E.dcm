@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACHS-7123-000E
+D Board Mount Current Sensors Hall Effect IC LF 30A 66 mV/A
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/85fe2f5daf3917ca61a2261dca329268.pdf
+$ENDCMP
+#
+#End Doc Library

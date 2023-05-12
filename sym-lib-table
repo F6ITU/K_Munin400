@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ACHS-7123-000E")(type "KiCad")(uri "${KIPRJMOD}/Lib/ACHS-7123-000E/KiCad/ACHS-7123-000E.kicad_sym")(options "")(descr ""))
+  (lib (name "MRF300AN")(type "KiCad")(uri "${KIPRJMOD}/Lib/MRF300AN/KiCad/MRF300AN.kicad_sym")(options "")(descr ""))
+  (lib (name "MRF300BN")(type "KiCad")(uri "${KIPRJMOD}/Lib/MRF300BN/KiCad/MRF300BN.kicad_sym")(options "")(descr ""))
+  (lib (name "LMC660AIM_NOPB")(type "KiCad")(uri "${KIPRJMOD}/Lib/LMC660AIM_NOPB/KiCad/LMC660AIM_NOPB.kicad_sym")(options "")(descr ""))
+)
