@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UWT1H221MNL1GS
+D Capacitor lytic SMD WT Series 50V 220uF
+K
+F http://www.nichicon.co.jp/english/products/pdfs/e-uwt.pdf
+$ENDCMP
+#
+#End Doc Library
