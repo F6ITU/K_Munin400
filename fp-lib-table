@@ -14,4 +14,5 @@
   (lib (name "BN43-202-master")(type "KiCad")(uri "${KIPRJMOD}/Lib/BN43-202-master.pretty")(options "")(descr ""))
   (lib (name "FT114A")(type "KiCad")(uri "${KIPRJMOD}/Lib/FT114A.pretty")(options "")(descr ""))
   (lib (name "T50")(type "KiCad")(uri "${KIPRJMOD}/Lib/T50.pretty")(options "")(descr ""))
+  (lib (name "Resistor_feedB")(type "KiCad")(uri "${KIPRJMOD}/Lib/Resistor_feedB.pretty")(options "")(descr ""))
 )
