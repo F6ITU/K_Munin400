@@ -1,7 +1,7 @@
 # K_Munin400
 LA2NI's OpenHPSDR 400W HF amplifier (Kicad Version)
 
-![Munin, a 400W HF linear amplifier](https://github.com/F6ITU/K_Munin400/blob/main/Documentation/Ampli_kjell1.jpg)
+![Munin, a 400W HF linear amplifier](https://github.com/F6ITU/K_Munin400/blob/main/K_Munin400.png)
 
 This amplifier board is part of a set consisting of a 400 W LD-Mos based RF power amplifier (Munin 400), 
 a medium power Zolotarev low pass filter (600 or 1500 W), an Automatic Antenna Tuner (ATU) nickname « Aries » 
@@ -31,7 +31,6 @@ and the masterpiece of the OpenHPSDR architecture
 
 This LDMoS transistor-based amplifier brings speech over the great distances of the "Midgard" of the waves
 
-![Munin, a 400W HF linear amplifier](https://github.com/F6ITU/K_Munin400/blob/main/Documentation/hugin_munin.png)
 
 # Work in progress
 do NOT use these files as long as this footnote hasn't been deleted
