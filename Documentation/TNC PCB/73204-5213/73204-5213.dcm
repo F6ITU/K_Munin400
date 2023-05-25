@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 73204-5213
+D 50 Ohms, TNC Right-Angle, PCB, Jack Receptacle, Body Nickel Plated Brass
+K
+F https://www.molex.com/pdm_docs/sd/732045213_sd.pdf
+$ENDCMP
+#
+#End Doc Library

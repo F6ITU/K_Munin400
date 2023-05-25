@@ -70,8 +70,8 @@
     (stroke (width 0.07) (type solid)) (layer "F.CrtYd") (tstamp dd320dbe-7f0d-4289-845f-f26cd07b992b))
   (fp_line (start 7.25 5) (end 7.25 -5.5)
     (stroke (width 0.07) (type solid)) (layer "F.CrtYd") (tstamp 0c02365d-954d-4720-8908-60020b4e80d1))
-  (pad "1" smd roundrect (at 0 -5.4) (size 4 3) (layers "*.Mask" "F.Cu") (roundrect_rratio 0.25) (tstamp 4000b403-e5f4-4bd3-b2c3-49e178aa035f))
-  (pad "2" smd roundrect (at 0 5.2) (size 4 3) (layers "*.Mask" "F.Cu") (roundrect_rratio 0.25) (tstamp 62f5afc2-fd30-4391-822d-0be048937c69))
+  (pad "1" smd roundrect (at 0 -5.4) (size 4 3) (layers "F.Cu" "F.Paste") (roundrect_rratio 0.25) (tstamp 4000b403-e5f4-4bd3-b2c3-49e178aa035f))
+  (pad "2" smd roundrect (at 0 5.2) (size 4 3) (layers "F.Cu" "F.Paste") (roundrect_rratio 0.25) (tstamp 62f5afc2-fd30-4391-822d-0be048937c69))
   (model "../../../../../../Users/Marco/Documents/Kicad/modules/T50_V_cms.pretty/T50.wrl"
     (offset (xyz 0 0 5.841999912))
     (scale (xyz 0.14 0.2 0.14))
