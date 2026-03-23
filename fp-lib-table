@@ -15,4 +15,5 @@
   (lib (name "FT114A")(type "KiCad")(uri "${KIPRJMOD}/Lib/FT114A.pretty")(options "")(descr ""))
   (lib (name "T50")(type "KiCad")(uri "${KIPRJMOD}/Lib/T50.pretty")(options "")(descr ""))
   (lib (name "Resistor_feedB")(type "KiCad")(uri "${KIPRJMOD}/Lib/Resistor_feedB.pretty")(options "")(descr ""))
+  (lib (name "Resistor_SMD")(type "KiCad")(uri "C:/Users/marco/Documents/KiCad/Lib_Custom/Footprints/Resistor_SMD.pretty")(options "")(descr ""))
 )
